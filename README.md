@@ -45,6 +45,10 @@ Weather Display
 
 <img width="1822" height="1280" alt="image" src="https://github.com/user-attachments/assets/18feffc2-58b8-4e55-9dcc-338ad9bd8f7e" />
 
+## What I learned
+
+This project provided experience working with external APIs, JSON data, GUI development, error handling, and integrating external services into a Python application.
+
 ## Installation
 
 git clone https://github.com/ManavSainani/weather-dashboard.git
